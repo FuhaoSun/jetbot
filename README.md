@@ -12,7 +12,7 @@
 ジャンパワイヤーは片側がオスのものを使用します。もう一方は配線を剥いてはんだ付けしますので、両側がソケットになっている必要はありません。<br>
 便宜上、ジャンパワイヤーは異なる色を使用しています。<br>
 今度は赤と黒です。（左赤右黒）<br>
-![](https://github.com/FuhaoSun/jetbot/photos/1.jpg)
+![](http://github.com/FuhaoSun/jetbot/raw/photos/1.jpg)
 
 
 Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/wiki).<br>
