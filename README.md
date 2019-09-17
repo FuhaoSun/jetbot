@@ -10,5 +10,5 @@
 
 
 
-建议阅读Jetbot官方wiki [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/wiki).<br>
+Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/wiki).<br>
 
