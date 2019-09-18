@@ -28,7 +28,7 @@ Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://gith
 8.カメラのケーブル挿入方向について<br>
 公式wikiも書きませんですが、もし間違えるなら、画像ないと思います。<br>
 こちらは写真付き：<br>
-<div align=center><img width="480" height="320" src="https://github.com/FuhaoSun/jetbot/raw/master/photos/4.jpg"/></div><br>
+<div align=center><img width="320" height="480" src="https://github.com/FuhaoSun/jetbot/raw/master/photos/4.jpg"/></div><br>
 
 
 
