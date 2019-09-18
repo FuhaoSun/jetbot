@@ -8,6 +8,7 @@
 >日本語：https://www.ogis-ri.co.jp/otc/hiroba/technical/lets-try-jetbot/part1.html<br>
 >中国語：https://www.ncnynl.com/archives/201904/2927.html<br>
 ## 一、	jetbotの組立について
+Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/wiki).<br>
 #### ハードウェアのセットアップ
 ジャンパワイヤーは片側がオスのものを使用します。もう一方は配線を剥いてはんだ付けしますので、両側がソケットになっている必要はありません。<br>
 便宜上、ジャンパワイヤーは異なる色を使用しています。<br>
@@ -15,5 +16,5 @@
 ![](https://github.com/FuhaoSun/jetbot/raw/master/photos/1.jpg)
 
 
-Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/wiki).<br>
+
 
