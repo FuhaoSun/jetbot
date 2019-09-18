@@ -17,7 +17,7 @@ Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://gith
 ##### 2.ネジは25mm長のM3を使い、ナットで固定します。<br>
 ##### 3.右向きマイクロUSBケーブルカットして、配線を剥いて。赤と黒だけ使いますので、緑と白は不要。<br>
 ##### 4.PiOLEDディスプレイがJetson Nano本体をはんだで固定のは難しいです。はんだ使う時ディスプレイの損傷の可能性あるので、要注意。<br>
-<div align=center><img width="480" height="320" src="https://github.com/FuhaoSun/jetbot/raw/master/photos/2.jpg"/></div><br>
+#<div align=center><img width="480" height="320" src="https://github.com/FuhaoSun/jetbot/raw/master/photos/2.jpg"/></div><br>
 ##### 5.Wi-Fiカードは任意ですが、今度は無線LANアダプタを使用しています。（型番BUFFALO　WLI-UC-GNM2S）<br>
 ##### 6.注意点：JetBotのOSイメージは通常版が64GBを超えているため128GB以上のmicroSDカードが必要になります。（64GBのmicroSDカードでも収まる63GBの縮小版イメージもありますが、後述の教師データの収集等を考えると、大きなサイズのmicroSDカードを準備することをお勧めします）<br>
 ##### 7.公式Wikiのサンプル画像に間違っている箇所があります。
