@@ -25,6 +25,10 @@ Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://gith
 <div align=center><img width="450" height="300" src="https://github.com/FuhaoSun/jetbot/raw/master/photos/3.jpg"/></div><br>
 上記の画像では、左右のモーターの赤と黒のワイヤーが実際に裏返されています。<br>
 これは損傷の原因にはなりませんが、モーターは逆回転します。それらを正しい方向に反転させてください。<br>
+8.カメラのケーブル挿入方向について<br>
+公式wikiも書きませんですが、もし間違えるなら、画像ないと思います。<br>
+こちらは写真付き：<br>
+
 
 
 
