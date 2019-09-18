@@ -43,4 +43,10 @@ robot.set_motors(0.3,0.3)
 time.sleep(1.0)
 robot.stop()
 ```
-
+##### 2.共通手順
+>Jetbot電源ON
+>http://<jetbot_ip_address>:8888に移動してロボットに接続します。<br>
+		(IPアドレスはロボットのディスプレイに表示されます。<br>
+>`Kernel`➡`Shutdown All Kernels...`を選択して、実行中の他のすべての`Notebook`を閉じます。
+>事前トレーニング済みのモデルをフォルダーにアップロードします。（例３は1個、例４は2個）。
+>`Notebook`を開いて、操作をフォローします。
