@@ -7,10 +7,10 @@
 >英語（公式サイト）：https://github.com/NVIDIA-AI-IOT/jetbot/wiki<br>
 >日本語：https://www.ogis-ri.co.jp/otc/hiroba/technical/lets-try-jetbot/part1.html<br>
 >中国語：https://www.ncnynl.com/archives/201904/2927.html<br>
-## 一、	jetbotの組立について
+## Ⅰjetbotの組立について
 Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/wiki).<br>
-### Ⅰハードウェアのセットアップ<br>
-##### 1.ジャンパワイヤーは片側がオスのものを使用します。もう一方は配線を剥いてはんだ付けしますので、両側がソケットになっている必要はありません。<br>
+##### ハードウェアのセットアップ<br>
+ジャンパワイヤーは片側がオスのものを使用します。もう一方は配線を剥いてはんだ付けしますので、両側がソケットになっている必要はありません。<br>
 便宜上、ジャンパワイヤーは異なる色を使用しています。<br>
 今度は赤と黒です。（左赤右黒）<br>
 #<div align=center><img width="320" height="480" src="https://github.com/FuhaoSun/jetbot/raw/master/photos/1.jpg"/></div><br>
@@ -31,7 +31,7 @@ Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://gith
 #<div align=center><img width="320" height="480" src="https://github.com/FuhaoSun/jetbot/raw/master/photos/4.jpg"/></div>
 ##### 9.溶接時間は長すぎてはいけません。さもないと部品が焼けてしまいます。<br>
 別ネタですが、私は小学校の時、はんだを使い始めました。いくつかのロボットを壊しました。<br>
-### Ⅱサンプルコードの実行について
+## Ⅱサンプルコードの実行について
 ##### 1.テスト用コード
 
 ```Python
