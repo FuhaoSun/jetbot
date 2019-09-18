@@ -16,7 +16,7 @@ Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://gith
 ![](https://github.com/FuhaoSun/jetbot/raw/master/photos/1.jpg)
 #### ネジは25mm長のM3を使い、ナットで固定します。
 #### 右向きマイクロUSBケーブルカットして、配線を剥いて。赤と黒だけ使いますので、緑と白は不要。
-
+#### PiOLEDディスプレイがJetson Nano本体をはんだで固定のは難しいです。はんだ使う時ディスプレイの損傷の可能性あるので、要注意。
 
 
 
