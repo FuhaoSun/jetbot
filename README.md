@@ -57,3 +57,12 @@ PS4コントローラーの場合は、index=0<br>
 ③<br>
 ④このサンプルコード（オブジェクトフォロー）では、設定されるフォロー対象三つあります。（人、犬、コップ）わが会社の空間ちょっと狭いから、人と犬は無理ですね。今度は「いろはす天然水」を使う。効果まあまあです。<br>
 ##### 4.例３と例４の読み込み時間がかなり長いです（2分程度）。エラーではない。
+### Ⅲ発展課題（衝突回避教師データ採集）について
+##### 3.参考サイト
+>英語（公式サイト）：<br>
+>https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/collision_avoidance/data_collection.ipynb<br>
+>日本語：<br>
+>https://www.ogis-ri.co.jp/otc/hiroba/technical/lets-try-jetbot/part4.html<br>
+>中国語：<br>
+>https://robocarstore.cn/jetbot-collision-avoidance-data-collection.html<br>
+##### 4.トレーニングの前に、JetBotをオフにし、5V、3Aの充電ヘッドまたは専用の電源を使用してJetBotに電力を供給することをお勧めします。トレーニングプロセス中に大量の電量を消費するため、モバイル電源の使用は推奨されません。もしくはモバイル電源を完全に充電してください。
