@@ -21,7 +21,8 @@ Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://gith
 ##### 5.Wi-Fiカードは任意ですが、今度は無線LANアダプタを使用しています。（型番BUFFALO　WLI-UC-GNM2S）
 ##### 6.注意点：JetBotのOSイメージは通常版が64GBを超えているため128GB以上のmicroSDカードが必要になります。（64GBのmicroSDカードでも収まる63GBの縮小版イメージもありますが、後述の教師データの収集等を考えると、大きなサイズのmicroSDカードを準備することをお勧めします）
 ##### 7.公式Wikiのサンプル画像に間違っている箇所があります。
-![](https://github.com/FuhaoSun/jetbot/raw/master/photos/3.jpg)<br>
+
+<div align=center><img width="150" height="150" src="https://github.com/FuhaoSun/jetbot/raw/master/photos/3.jpg"/></div>
 ##### 上記の画像では、左右のモーターの赤と黒のワイヤーが実際に裏返されています。<br>
 ##### これは損傷の原因にはなりませんが、モーターは逆回転します。それらを正しい方向に反転させてください。<br>
 
