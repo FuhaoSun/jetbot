@@ -35,7 +35,7 @@ Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://gith
 ##### 1.テスト用コード
 
 ```Python
-//前へ進む1秒、そして止まる
+/*前へ進む1秒、そして止まる*/
 from jetbot import Robot
 import time
 robot = Robot()
