@@ -13,7 +13,7 @@ Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://gith
 1.ジャンパワイヤーは片側がオスのものを使用します。もう一方は配線を剥いてはんだ付けしますので、両側がソケットになっている必要はありません。<br>
 便宜上、ジャンパワイヤーは異なる色を使用しています。<br>
 今度は赤と黒です。（左赤右黒）<br>
-[]<div align=center><img width="320" height="480" src="https://github.com/FuhaoSun/jetbot/raw/master/photos/1.jpg"/></div><br>
+<div align=center><img width="320" height="480" src="https://github.com/FuhaoSun/jetbot/raw/master/photos/1.jpg"/></div><br>
 ### 2.ネジは25mm長のM3を使い、ナットで固定します。<br>
 3.右向きマイクロUSBケーブルカットして、配線を剥いて。赤と黒だけ使いますので、緑と白は不要。<br>
 4.PiOLEDディスプレイがJetson Nano本体をはんだで固定のは難しいです。はんだ使う時ディスプレイの損傷の可能性あるので、要注意。<br>
