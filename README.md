@@ -14,6 +14,8 @@ Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://gith
 便宜上、ジャンパワイヤーは異なる色を使用しています。<br>
 今度は赤と黒です。（左赤右黒）<br>
 ![](https://github.com/FuhaoSun/jetbot/raw/master/photos/1.jpg)
+#### ネジは25mm長のM3を使い、ナットで固定します。
+#### 右向きマイクロUSBケーブルカットして、配線を剥いて。赤と黒だけ使いますので、緑と白は不要。
 
 
 
