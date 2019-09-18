@@ -33,7 +33,7 @@ Jetbot公式wikiを読むことをお勧めします: [JetBot Wiki](https://gith
 別ネタですが、私は小学校の時、はんだを使い始めました。いくつかのロボットを壊しました。<br>
 ## Ⅱサンプルコードの実行について
 ##### 1.テスト用コード
-
+NoteBookを開けます、`Kernel`を`Python3`を選択して、`Run All Kernels`をクリックします。
 ```Python
 /*前へ進む1秒、そして止まる*/
 from jetbot import Robot
